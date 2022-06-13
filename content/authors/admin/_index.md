@@ -2,26 +2,23 @@
 title: Arshia Soltani Moakhar
 role: computer engineering student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Deep Learning, Adversarial Machine Learning,
+  Game Theory.
 social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://twitter.com/ArshiaSoltani80
 organizations:
-  - name: 腾讯
-    url: ""
+  - name: Sharif University of Technology
+    url: https://en.sharif.edu/
+education:
+  courses: []
+email: arshia.soltani2@gmail.com
 superuser: true
 status:
   icon: ☕️
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a

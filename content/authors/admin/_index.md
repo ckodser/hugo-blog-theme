@@ -7,7 +7,7 @@ bio: My research interests include Deep Learning, Adversarial Machine Learning,
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
+    link: mailto:arshia.soltani2@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ArshiaSoltani80
